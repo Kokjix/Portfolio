@@ -14,9 +14,7 @@ My goal is to develop strong practical experience in robotics by building simula
 ## Control Moment Gyroscope for Bicycle Stabilization
 
 Project Link:  
-https://github.com/Kokjix/CMG-for-Bicycle
-
-This project investigates the use of a **Control Moment Gyroscope (CMG)** as a stabilization mechanism for a bicycle.
+[CMG for Bicycle](https://github.com/Kokjix/CMG-for-Bicycle)
 
 The objective is to analyze whether gyroscopic actuation can stabilize a two-wheeled vehicle by generating corrective torques that counteract roll motion.
 
@@ -41,7 +39,7 @@ The system is modeled using the dynamic equations of the bicycle and the gyrosco
 ## ROS 2 Robotics Exercises
 
 Project Link:  
-https://github.com/Kokjix/ROS-2-Exercises
+[ROS 2 Exercises](https://github.com/Kokjix/ROS-2-Exercises)
 
 This repository contains a collection of projects developed to strengthen practical **ROS 2 robotics software development skills**.
 
@@ -69,7 +67,7 @@ The goal of this repository is to build a strong foundation in developing modula
 ## Robotics Simulations
 
 Project Link:  
-https://github.com/Kokjix/Simulations
+[Robotics Simulations](https://github.com/Kokjix/Simulations)
 
 This repository contains Gazebo-based simulations for **Rover 21 and Rover 22 systems**, including mobile bases and robotic arms. It is designed to test **navigation, perception, and manipulation algorithms** in realistic simulated environments.
 
