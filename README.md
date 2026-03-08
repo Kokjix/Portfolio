@@ -41,6 +41,9 @@ The system is modeled using the dynamic equations of the bicycle and the gyrosco
 Project Link:  
 [ROS 2 Exercises](https://github.com/Kokjix/ROS-2-Exercises)
 
+Demo:
+![Simulation Demo](media/sim_ros2.gif)
+
 This repository contains a collection of projects developed to strengthen practical **ROS 2 robotics software development skills**.
 
 The exercises focus on implementing core robotics concepts such as robot control, odometry estimation, and navigation strategies using ROS 2 nodes.
@@ -68,6 +71,9 @@ The goal of this repository is to build a strong foundation in developing modula
 
 Project Link:  
 [Robotics Simulations](https://github.com/Kokjix/Simulations)
+
+Demo:
+![Simulation Demo](media/sim.gif)
 
 This repository contains Gazebo-based simulations for **Rover 21 and Rover 22 systems**, including mobile bases and robotic arms. It is designed to test **navigation, perception, and manipulation algorithms** in realistic simulated environments.
 
